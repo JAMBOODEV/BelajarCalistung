@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap android:src="@drawable/btnmengenalhuruf" />
+    </item>
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <gradient
+                android:angle="45"
+                android:startColor="#88f9ee59"
+                android:centerColor="#88838105"
+                android:endColor="#88bdfc1e" />
+        </shape>
+    </item>
+</layer-list>

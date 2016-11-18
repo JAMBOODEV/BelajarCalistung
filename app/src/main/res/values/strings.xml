@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Belajar Calistung</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <color name="a">#ee0000</color>
+    <color name="b">#CD6600</color>
+    <color name="c">#EEEE00</color>
+    <color name="d">#2E8B57</color>
+    <color name="e">#4169E1</color>
+    <color name="f">#9400D3</color>
+    <color name="j">#CD00CD</color>
+    <color name="h">#402606</color>
+    <color name="i">#000000</color>
+    <color name="g">#5C5C5C</color>
+    <color name="k">#FFFFFF</color>
+    <color name="l">#BDB76B</color>
+    <color name="m">#00CED1</color>
+    <color name="n">#8B7500</color>
+    <color name="o">#B0E0E6</color>
+    <color name="p">#CD5B45</color>
+    <color name="q">#FF6EB4</color>
+    <color name="r">#20B2AA</color>
+    <color name="s">#7CCD7C</color>
+    <color name="t">#8B008B</color>
+    <color name="u">#8B6914</color>
+    <color name="w">#ADD8E6</color>
+    <color name="x">#EE1289</color>
+    <color name="y">#FF00FF</color>
+    <color name="z">#FFFF00</color>
+    <string name="RED">MERAH</string>
+    <item name="lysantallash" type="id"></item>
+    <string name="juze">جۈزە رەڭ</string>
+    <string name="label_create_gesture">Create a gesture</string>
+
+    <!-- Buttons -->
+    <skip />
+    <!-- Label, button used to add a gesture -->
+    <string name="button_add">Add gesture</string>
+    <!-- Label, button used to reload all gestures -->
+    <string name="button_reload">Reload</string>
+    <!-- Label, button used to cancel the operation of adding a gesture -->
+    <string name="button_discard">Discard</string>
+    <!-- Label, button used to save a gesture newly created -->
+    <string name="button_done">Done</string>
+
+    <!-- Gestures -->
+    <skip />
+    <!-- Label, prompt asking the user to enter the name of the gesture -->
+    <string name="prompt_gesture_name">Name</string>
+    <!-- Error message, informs the user he needs to enter a name before saving a gesture -->
+    <string name="error_missing_name">You must enter a name</string>
+    <!-- success message, tells the user where the gesture was saved -->
+    <string name="save_success">Gesture saved in %s</string>
+    <!-- Buttons in Rename gesture dialog box -->
+    <string name="rename_action">OK</string>
+    <!-- Buttons in Rename gesture dialog box -->
+    <string name="cancel_action">Cancel</string>
+    <!-- Message displayed when the user opens the gestures settings screen -->
+    <string name="gestures_loading">Loading gestures...</string>
+    <!-- Message displayed when the user has no gestures -->
+    <string name="gestures_empty">No gestures</string>
+    <!-- Title of the screen used to view/manage gestures -->
+    <string name="gestures_activity">Gestures</string>
+    <!-- Noun, menu item used to rename a gesture -->
+    <string name="gestures_rename">Rename</string>
+    <!-- Noun, menu item used to remove a gesture -->
+    <string name="gestures_delete">Delete</string>
+    <!-- Message displayed when a gesture is successfully deleted -->
+    <string name="gestures_delete_success">Gesture deleted</string>
+    <!-- Title of dialog box -->
+    <string name="gestures_rename_title">Rename gesture</string>
+    <!-- Label of gesture name field in Rename gesture dialog box -->
+    <string name="gestures_rename_label">Gesture name</string>
+    <!-- Message, displayed when the sdcard cannot be found, 1st parameter is the name of the file that stores the gestures -->
+    <string name="gestures_error_loading">Could not load %s. Make sure you have a mounted SD card.</string>
+</resources>
