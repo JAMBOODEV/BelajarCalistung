@@ -40,7 +40,10 @@
         <activity android:name=".test.Level" />
         <activity android:name=".result.Result" />
         <activity android:name=".AboutActivity" />
-        <activity android:name=".HelpActivity"></activity>
+        <activity android:name=".HelpActivity" />
+        <activity android:name=".HelpAngka" />
+        <activity android:name=".HelpHuruf" />
+        <activity android:name=".HelpWarna"></activity>
     </application>
 
 </manifest>

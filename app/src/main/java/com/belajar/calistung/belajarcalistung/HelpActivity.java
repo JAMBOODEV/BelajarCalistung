@@ -22,4 +22,16 @@ public class HelpActivity extends Activity {
         Intent intent = new Intent(HelpActivity.this, MainActivity.class);
         startActivity(intent);
     }
+    public void helpangka(View view){
+        Intent intent = new Intent(HelpActivity.this, HelpAngka.class);
+        startActivity(intent);
+    }
+    public void helphuruf(View view){
+        Intent intent = new Intent(HelpActivity.this, HelpHuruf.class);
+        startActivity(intent);
+    }
+    public void helpwarna(View view){
+        Intent intent = new Intent(HelpActivity.this, HelpWarna.class);
+        startActivity(intent);
+    }
 }

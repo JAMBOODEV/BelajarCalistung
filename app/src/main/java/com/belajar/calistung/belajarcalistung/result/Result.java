@@ -22,7 +22,7 @@ import com.belajar.calistung.belajarcalistung.R;
 /*import com.gilpix.beginners.Beginners;
 import com.gilpix.test.Level;
 import com.gilpix.test.R;*/
-
+//2011141871 Ryo Sutrisno
 public class Result extends Beginners {
 
 
@@ -49,7 +49,7 @@ public class Result extends Beginners {
         // String[] array=b.getStringArray("mes");
         String recive = getIntent().getStringExtra("string");
 
-
+//2011141871 Ryo Sutrisno
         int point = Integer.parseInt(recive);
         //t1.setText(recive);
         marks.setText(recive + " " + "JAWABAN YANG BENAR");
@@ -119,9 +119,9 @@ public class Result extends Beginners {
         getMenuInflater().inflate(R.menu.level, menu);
         return true;
     }
-
+//2011141871 Ryo Sutrisno
 
 }
-
+//2011141871 Ryo Sutrisno
 
 
