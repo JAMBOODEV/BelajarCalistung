@@ -1,9 +1,8 @@
 package com.belajar.calistung.belajarcalistung;
 
 import android.graphics.Color;
-
 public class lazim {
-    public int[] mycolor = {R.color.a, R.color.b, R.color.c, R.color.d, R.color.e, R.color.f, R.color.q, R.color.h, R.color.i, R.color.g, R.color.k};
+    public int[] mycolor = {R.drawable.merah, R.drawable.jingga, R.drawable.kuning, R.drawable.hijau, R.drawable.biru, R.drawable.ungu, R.drawable.merahmuda, R.drawable.cokelat, R.drawable.hitam, R.drawable.abuabu, R.drawable.putih};
     public String[] colorname = {"Merah", "Oren", "Kuning", "Hijau", "Biru", "Ungu", "Merah Muda", "Cokelat", "Hitam", "Abu-Abu", "Putih"};
 
     public int[] mymp3 = {

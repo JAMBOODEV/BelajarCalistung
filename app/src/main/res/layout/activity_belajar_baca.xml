@@ -31,7 +31,7 @@
             android:layout_marginRight="20dp"
             android:id="@+id/imbtsan"
             android:layout_height="fill_parent"
-            android:layout_width="fill_parent"></ImageButton>
+            android:layout_width="156dp"></ImageButton>
     </LinearLayout>
 
     <LinearLayout
@@ -50,7 +50,7 @@
             android:layout_height="100dp"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
-            android:src="@drawable/dice_src"
+            android:src="@drawable/btnrandom"
             android:background="@drawable/button_gradient_bg" />
 
         <ImageButton
@@ -59,8 +59,8 @@
             android:layout_width="100dp"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
-            android:src="@drawable/sign_left_src"
-            android:background="@drawable/button_gradient_bg" />
+            android:src="@drawable/kiri2"
+            android:background="@drawable/button_gradient_bg"/>
 
         <ImageButton
             android:id="@+id/bt3"
@@ -69,8 +69,8 @@
             android:layout_width="100dp"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
-            android:src="@drawable/sign_right_src"
-            android:background="@drawable/button_gradient_bg" />
+            android:src="@drawable/kanan2"
+            android:background="@drawable/button_gradient_bg"/>
 
         <ImageButton
             android:id="@+id/bt4"
@@ -79,7 +79,7 @@
             android:layout_marginLeft="10dp"
             android:layout_width="100dp"
             android:layout_marginRight="10dp"
-            android:src="@drawable/gear_src"
+            android:src="@drawable/btnmute2"
             android:background="@drawable/button_gradient_bg" />
 
     </LinearLayout>

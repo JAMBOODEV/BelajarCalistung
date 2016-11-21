@@ -297,6 +297,11 @@ public class BelajarHitung extends Activity {
         }
         return true;
     }
+    public void keluar (View view){
+        Intent intent= new Intent(BelajarHitung.this,MainActivity.class);
+        startActivity(intent);
+        finish();
+    }
 
 
 }

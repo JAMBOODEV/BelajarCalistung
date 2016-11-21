@@ -70,10 +70,12 @@
 
     <LinearLayout
         android:id="@+id/LinearLayout02"
-        android:layout_width="match_parent"
+        android:layout_width="fill_parent"
+        android:layout_height="117dp"
+        android:gravity="fill_horizontal"
         android:layout_gravity="bottom|center_horizontal"
-        android:layout_height="70dp"
         android:layout_marginTop="40px"
+        android:layout_alignParentBottom="true"
         android:layout_marginBottom="10dp">
 
         <ImageButton

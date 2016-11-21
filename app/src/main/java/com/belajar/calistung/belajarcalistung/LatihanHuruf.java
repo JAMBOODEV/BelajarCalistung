@@ -35,5 +35,6 @@ public class LatihanHuruf extends Activity {
     public void kembali (View view){
         Intent intent = new Intent (LatihanHuruf.this, MainActivity.class);
         startActivity(intent);
+        finish();
     }
 }

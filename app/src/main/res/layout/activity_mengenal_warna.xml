@@ -63,9 +63,9 @@
             android:id="@+id/imgvw2"
             android:layout_gravity="center"
             android:visibility="visible"
-            android:background="@color/a"
-            android:layout_height="540px"
-            android:layout_width="540px"></ImageView>
+            android:background="@drawable/merah"
+            android:layout_height="500px"
+            android:layout_width="500px"></ImageView>
     </RelativeLayout>
 
     <LinearLayout
@@ -74,7 +74,8 @@
         android:layout_gravity="bottom|center_horizontal"
         android:layout_height="70dp"
         android:layout_marginTop="40px"
-        android:layout_marginBottom="10dp">
+
+        android:layout_marginBottom="100dp">
 
         <ImageButton
             android:background="@drawable/button_prev_normal"

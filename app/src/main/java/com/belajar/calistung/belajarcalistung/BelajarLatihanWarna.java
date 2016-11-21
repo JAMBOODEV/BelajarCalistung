@@ -33,5 +33,6 @@ public class BelajarLatihanWarna extends AppCompatActivity {
     public void kembali (View view){
         Intent intent = new Intent (BelajarLatihanWarna.this, MainActivity.class);
         startActivity(intent);
+        finish();
     }
 }
