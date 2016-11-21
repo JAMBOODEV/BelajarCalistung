@@ -20,5 +20,6 @@ public class AboutActivity extends Activity {
     public void kembali (View view){
         Intent intent = new Intent (AboutActivity.this, MainActivity.class);
         startActivity(intent);
+        finish();
     }
 }
