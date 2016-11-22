@@ -175,7 +175,7 @@
             android:layout_width="100dp"
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
-            android:src="@drawable/sign_right_src"
+            android:src="@drawable/btnrandom"
             android:background="@drawable/button_gradient_bg" />
 
         <ImageButton
@@ -185,7 +185,7 @@
             android:layout_marginLeft="10dp"
             android:layout_width="100dp"
             android:layout_marginRight="10dp"
-            android:src="@drawable/gear_src"
+            android:src="@drawable/btnmute2"
             android:background="@drawable/button_gradient_bg" />
 
     </LinearLayout>

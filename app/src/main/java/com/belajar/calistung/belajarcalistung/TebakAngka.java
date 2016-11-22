@@ -154,8 +154,6 @@ public class TebakAngka extends Activity implements View.OnClickListener {
         ibsantunush = (ImageButton) findViewById(R.id.imbtsuntunush);
         next = (ImageButton) findViewById(R.id.imbtnext);
         menu = (ImageButton) findViewById(R.id.imbtmenu);
-
-
         imview=(ImageView)findViewById(R.id.imvwtsan);
         bt1=(Button)findViewById(R.id.Button01);
         bt2=(Button)findViewById(R.id.Button02);
