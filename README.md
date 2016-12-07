@@ -1,2 +1,3 @@
 # BelajarCalistung
-Aplikasi Belajar Membaca dan Menghitung
+
+Applications Learning Reading and Counting
