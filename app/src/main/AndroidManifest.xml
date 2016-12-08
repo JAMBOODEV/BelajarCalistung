@@ -44,6 +44,8 @@
         <activity android:name=".HelpAngka" />
         <activity android:name=".HelpHuruf" />
         <activity android:name=".HelpWarna" />
+        <activity android:name=".MengenalHewan" />
+        <activity android:name=".ActivityHewan" />
     </application>
 
 </manifest>

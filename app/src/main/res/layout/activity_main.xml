@@ -14,22 +14,11 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/button"
-        android:onClick="bukabaca"
-        android:background="@drawable/tombol"
-        android:layout_marginTop="70dp"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_gravity="center" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:onClick="menuhitung"
         android:id="@+id/button3"
         android:background="@drawable/tombol3"
         android:layout_gravity="center"
-        android:layout_marginTop="35dp"
+        android:layout_marginTop="20dp"
         android:layout_below="@+id/button"
         android:layout_alignLeft="@+id/button"
         android:layout_alignStart="@+id/button" />
@@ -39,7 +28,7 @@
         android:layout_height="wrap_content"
         android:onClick="sendMessage"
         android:id="@+id/button4"
-        android:layout_marginTop="29dp"
+        android:layout_marginTop="20dp"
         android:background="@drawable/tombol4"
         android:layout_below="@+id/button3"
         android:layout_centerHorizontal="true"
@@ -65,4 +54,35 @@
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:background="@drawable/tombolabout" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button"
+        android:onClick="bukabaca"
+        android:background="@drawable/tombol"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/button4"
+        android:layout_alignStart="@+id/button4" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="bukahewan"
+        android:id="@+id/button24"
+        android:background="@drawable/tombol7"
+        android:layout_below="@+id/button4"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/tombol8"
+        android:layout_below="@+id/button24"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:id="@+id/button26" />
 </RelativeLayout>

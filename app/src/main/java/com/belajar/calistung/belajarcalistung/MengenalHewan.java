@@ -89,8 +89,8 @@ public class MengenalHewan extends Activity {
         imview.setLayoutParams(mParam);
         ibsan = (ImageButton) findViewById(R.id.imbtsan);
 
-        imview.setBackgroundResource(lzm.gambarsaya2[a]);
-        ibsan.setBackgroundResource(lzm.gambaralfabet[a]);
+        imview.setBackgroundResource(lzm.gambarsaya3[a]);
+        ibsan.setBackgroundResource(lzm.gambarhewan[a]);
         halighan.setOnClickListener(new ImageButton.OnClickListener() {
             public void onClick(View v) {
 
@@ -214,8 +214,8 @@ public class MengenalHewan extends Activity {
         if (a > 25) {
             a = 0;
         }
-        imview.setBackgroundResource(lzm.gambarsaya2[a]);
-        ibsan.setBackgroundResource(lzm.gambaralfabet[a]);
+        imview.setBackgroundResource(lzm.gambarsaya3[a]);
+        ibsan.setBackgroundResource(lzm.gambarhewan[a]);
         player(a);
 
     }
@@ -226,8 +226,8 @@ public class MengenalHewan extends Activity {
         if (a < 0) {
             a = 25;
         }
-        imview.setBackgroundResource(lzm.gambarsaya2[a]);
-        ibsan.setBackgroundResource(lzm.gambaralfabet[a]);
+        imview.setBackgroundResource(lzm.gambarsaya3[a]);
+        ibsan.setBackgroundResource(lzm.gambarhewan[a]);
         player(a);
 
     }
@@ -236,8 +236,8 @@ public class MengenalHewan extends Activity {
         int bk = 0;
         Random rndGenerator = new Random();
         bk = rndGenerator.nextInt(25);
-        imview.setBackgroundResource(lzm.gambarsaya2[bk]);
-        ibsan.setBackgroundResource(lzm.gambaralfabet[bk]);
+        imview.setBackgroundResource(lzm.gambarsaya3[bk]);
+        ibsan.setBackgroundResource(lzm.gambarhewan[bk]);
         player(bk);
         a = bk;
     }

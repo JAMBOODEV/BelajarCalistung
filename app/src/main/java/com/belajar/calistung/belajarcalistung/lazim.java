@@ -70,6 +70,35 @@ public class lazim {
             R.drawable.arti_y,
             R.drawable.arti_z
     };
+    //drawable hewan
+    public int[] gambarsaya3 = {
+            R.drawable.arti_a1,
+            R.drawable.arti_b1,
+            R.drawable.arti_c1,
+            R.drawable.arti_d1,
+            R.drawable.arti_e1,
+            R.drawable.arti_f1,
+            R.drawable.arti_g1,
+            R.drawable.arti_h1,
+            R.drawable.arti_i1,
+            R.drawable.arti_j1,
+            R.drawable.arti_k1,
+            R.drawable.arti_l1,
+            R.drawable.arti_m1,
+            R.drawable.arti_n1,
+            R.drawable.arti_o1,
+            R.drawable.arti_p1,
+            R.drawable.arti_q1,
+            R.drawable.arti_r1,
+            R.drawable.arti_s1,
+            R.drawable.arti_t1,
+            R.drawable.arti_u1,
+            R.drawable.arti_v1,
+            R.drawable.arti_w1,
+            R.drawable.arti_x1,
+            R.drawable.arti_y1,
+            R.drawable.arti_z1
+    };
     //Alfabet
     public int[] alfabet = {
             R.drawable.imnumber1,
@@ -178,6 +207,36 @@ public class lazim {
             R.drawable.huruf_x,
             R.drawable.huruf_y,
             R.drawable.huruf_z
+    };
+
+    //drawable hewan
+    public int[] gambarhewan = {
+            R.drawable.huruf_a1,
+            R.drawable.huruf_b1,
+            R.drawable.huruf_c1,
+            R.drawable.huruf_d1,
+            R.drawable.huruf_e1,
+            R.drawable.huruf_f1,
+            R.drawable.huruf_g1,
+            R.drawable.huruf_h1,
+            R.drawable.huruf_i1,
+            R.drawable.huruf_j1,
+            R.drawable.huruf_k1,
+            R.drawable.huruf_l1,
+            R.drawable.huruf_m1,
+            R.drawable.huruf_n1,
+            R.drawable.huruf_o1,
+            R.drawable.huruf_p1,
+            R.drawable.huruf_q1,
+            R.drawable.huruf_r1,
+            R.drawable.huruf_s1,
+            R.drawable.huruf_t1,
+            R.drawable.huruf_u1,
+            R.drawable.huruf_v1,
+            R.drawable.huruf_w1,
+            R.drawable.huruf_x1,
+            R.drawable.huruf_y1,
+            R.drawable.huruf_z1
     };
     public int[] nomorsaya = {
             R.drawable.number1,
