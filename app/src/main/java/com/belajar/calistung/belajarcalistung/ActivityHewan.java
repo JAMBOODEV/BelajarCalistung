@@ -7,6 +7,8 @@ import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 
+import com.belajar.calistung.belajarcalistung.picture.KuisHewan;
+
 public class ActivityHewan extends Activity {
 
     @Override
@@ -20,8 +22,8 @@ public class ActivityHewan extends Activity {
         Intent intent = new Intent(ActivityHewan.this, MengenalHewan.class);
         startActivity(intent);
     }
-    public void bukalatihanangka(View view){
-        Intent intent = new Intent(ActivityHewan.this, TebakAngka.class);
+    public void bukakuishewan(View view){
+        Intent intent = new Intent(ActivityHewan.this, KuisHewan.class);
         startActivity(intent);
     }
     public void kembali(View view){

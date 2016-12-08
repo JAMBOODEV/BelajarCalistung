@@ -46,6 +46,7 @@
         <activity android:name=".HelpWarna" />
         <activity android:name=".MengenalHewan" />
         <activity android:name=".ActivityHewan" />
+        <activity android:name=".picture.KuisHewan" />
     </application>
 
 </manifest>

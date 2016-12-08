@@ -22,7 +22,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:onClick="bukalatihanangka"
+        android:onClick="bukakuishewan"
         android:id="@+id/button8"
         android:layout_below="@+id/button7"
         android:layout_alignLeft="@+id/button7"

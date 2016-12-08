@@ -1384,6 +1384,77 @@
         <item>Cisco</item>
         <item>Picasa</item>
     </string-array>
+    <!-- Pertanyaan Hewan -->
+
+
+    <string-array name="pertanyaanhewan"> //ISI PERTANYAAN
+        <item>BANTUAN: A S A N G </item>
+        <item>BANTUAN: A D B A K </item>
+        <item>BANTUAN: I C C A K </item>
+        <item>BANTUAN: O D M B A </item>
+        <item>BANTUAN: E A L G N </item>
+        <item>BANTUAN: F L A M I N G O G </item>
+        <item>BANTUAN: G H A J A </item>
+        <item>BANTUAN: H I R A M A U</item>
+        <item>BANTUAN: I A K N</item>
+    </string-array>
+    <string-array name="pilihan_a">
+        <item>ANGSA</item>
+        <item>TIKUS</item>
+        <item>KUCING</item>
+        <item>KERA</item>
+        <item>ELANG</item>
+        <item>BUAYA</item>
+        <item>GAJAH</item>
+        <item>SIPUT</item>
+        <item>TAPIR</item>
+    </string-array>
+    <string-array name="pilihan_b">
+        <item>BUAYA</item>
+        <item>BADAK</item>
+        <item>CICAK</item>
+        <item>KUDA</item>
+        <item>SEMUT</item>
+        <item>FLAMINGGO</item>
+        <item>TAPIR</item>
+        <item>HARIMAU</item>
+        <item>BUAYA</item>
+    </string-array>
+    <string-array name="pilihan_c">
+        <item>DOMBA</item>
+        <item>ELANG</item>
+        <item>KERBAU</item>
+        <item>DOMBA</item>
+        <item>KUSKUS</item>
+        <item>JERAPAH</item>
+        <item>KALKUN</item>
+        <item>BERANG</item>
+        <item>IKAN</item>
+    </string-array>
+   <string-array name="pilihan_d">
+       <item>AYAM</item>
+       <item>SAPI</item>
+       <item>KALKUN</item>
+       <item>ANJING</item>
+       <item>TOKEK</item>
+       <item>BABI</item>
+       <item>CAPUNG</item>
+       <item>JERAPAH</item>
+       <item>AYAM</item>
+
+   </string-array>
+    <!-- Jawaban yang benar untuk hewan-->
+    <string-array name="jawabanhewan">
+        <item>ANGSA</item>
+        <item>BADAK</item>
+        <item>CICAK</item>
+        <item>DOMBA</item>
+        <item>ELANG</item>
+        <item>FLAMINGGO</item>
+        <item>GAJAH</item>
+        <item>HARIMAU</item>
+        <item>IKAN</item>
+    </string-array>
 
 
     <string-array name="fla_ques"> //ISI PERTANYAAN
@@ -1452,6 +1523,7 @@
         <item>PUTIH</item>
         <item>UNGU</item>
     </string-array>
+
 
 
     <string-array name="peo_ques">
