@@ -1,3 +1,3 @@
 # BelajarCalistung
 
-Applications Learning Reading and Counting
+Learning App for Kids (Write, Read and Math).
