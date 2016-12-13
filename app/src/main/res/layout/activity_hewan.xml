@@ -8,7 +8,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.belajar.calistung.belajarcalistung.mengenal_angka"
-    android:background="@drawable/bgangka">
+    android:background="@drawable/rybghewan">
 
     <Button
         android:layout_width="wrap_content"
