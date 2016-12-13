@@ -248,7 +248,7 @@ public class MengenalHewan extends Activity {
                 mMediaPlayer.release();
 
             }
-            mMediaPlayer = MediaPlayer.create(MengenalHewan.this, lzm.musiksaya2[i]);
+            mMediaPlayer = MediaPlayer.create(MengenalHewan.this, lzm.musikhewan[i]);
             mMediaPlayer.start();
         } else if (sound == false) {
             if (mMediaPlayer != null) {
