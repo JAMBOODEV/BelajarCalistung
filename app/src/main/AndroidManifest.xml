@@ -47,6 +47,9 @@
         <activity android:name=".MengenalHewan" />
         <activity android:name=".ActivityHewan" />
         <activity android:name=".picture.KuisHewan" />
+        <activity android:name=".ActivityTransportasi" />
+        <activity android:name=".MengenalTransportasi" />
+        <activity android:name=".picture.KuisTransportasi" />
     </application>
 
 </manifest>

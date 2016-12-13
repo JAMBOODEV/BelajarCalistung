@@ -80,6 +80,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:onClick="bukatransportasi"
         android:background="@drawable/tombol8"
         android:layout_below="@+id/button24"
         android:layout_centerHorizontal="true"

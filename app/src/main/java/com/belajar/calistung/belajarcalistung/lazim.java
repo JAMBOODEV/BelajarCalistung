@@ -70,6 +70,24 @@ public class lazim {
             R.drawable.arti_y,
             R.drawable.arti_z
     };
+    //Drawable Transportasi
+    public int[] gambarsaya4 = {
+            R.drawable.arti_a2,
+            R.drawable.arti_b2,
+            R.drawable.arti_c2,
+            R.drawable.arti_d2,
+            R.drawable.arti_e2,
+            R.drawable.arti_f2,
+            R.drawable.arti_g2,
+            R.drawable.arti_h2,
+            R.drawable.arti_i2,
+            R.drawable.arti_j2,
+            R.drawable.arti_k2,
+            R.drawable.arti_l2,
+            R.drawable.arti_m2,
+            R.drawable.arti_n2
+    };
+
     //drawable hewan
     public int[] gambarsaya3 = {
             R.drawable.arti_a1,
@@ -180,6 +198,24 @@ public class lazim {
             R.raw.tr,
             R.raw.fa
     };
+
+    //musik transportasi
+    public int[] musiksaya4 = {
+            R.raw.nada_a,
+            R.raw.nada_b,
+            R.raw.nada_c,
+            R.raw.nada_d,
+            R.raw.nada_e,
+            R.raw.nada_f,
+            R.raw.nada_g,
+            R.raw.nada_h,
+            R.raw.nada_i,
+            R.raw.nada_j,
+            R.raw.nada_k,
+            R.raw.nada_l,
+            R.raw.nada_m,
+            R.raw.nada_n
+    };
     public int[] gambaralfabet = {
             R.drawable.huruf_a,
             R.drawable.huruf_b,
@@ -207,6 +243,25 @@ public class lazim {
             R.drawable.huruf_x,
             R.drawable.huruf_y,
             R.drawable.huruf_z
+    };
+
+    //Drawable gambar transportasi
+    //drawable hewan
+    public int[] gambartransportasi= {
+            R.drawable.huruf_a2,
+            R.drawable.huruf_b2,
+            R.drawable.huruf_c2,
+            R.drawable.huruf_d2,
+            R.drawable.huruf_e2,
+            R.drawable.huruf_f2,
+            R.drawable.huruf_g2,
+            R.drawable.huruf_h2,
+            R.drawable.huruf_i2,
+            R.drawable.huruf_j2,
+            R.drawable.huruf_k2,
+            R.drawable.huruf_l2,
+            R.drawable.huruf_m2,
+            R.drawable.huruf_n2
     };
 
     //drawable hewan

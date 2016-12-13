@@ -63,6 +63,10 @@ public void bukabaca(View view){
         Intent intent = new Intent(MainActivity.this, ActivityHewan.class);
         startActivity(intent);
     }
+    public void bukatransportasi(View view){
+        Intent intent = new Intent (MainActivity.this, ActivityTransportasi.class);
+        startActivity(intent);
+    }
         protected void exitByBackKey() {
 
             AlertDialog alertbox = new AlertDialog.Builder(this)

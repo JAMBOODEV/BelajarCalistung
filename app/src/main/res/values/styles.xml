@@ -1384,6 +1384,79 @@
         <item>Cisco</item>
         <item>Picasa</item>
     </string-array>
+
+
+    <!-- Pertanyaan transportasi -->
+    <string-array name="pertanyaantransportasi"> //ISI PERTANYAAN
+        <item>BANTUAN: J A J A B </item>
+        <item>BANTUAN: S I B </item>
+        <item>BANTUAN: C A B E K </item>
+        <item>BANTUAN: O M B E </item>
+        <item>BANTUAN: T A K E R E </item>
+        <item>BANTUAN: A L A K L P L U A T </item>
+        <item>BANTUAN: E S P E D A </item>
+        <item>BANTUAN: T O R O M </item>
+        <item>BANTUAN: M I O L B</item>
+    </string-array>
+
+    <!--PERTANYAAN TRANSPORTASI DAN PILIHAN-->
+    <string-array name="pilihan_a2">
+        <item>BAJAJ</item>
+        <item>GEROBAK</item>
+        <item>BAJAJ</item>
+        <item>SEPEDA</item>
+        <item>KERETA</item>
+        <item>ANGKOT LAUT</item>
+        <item>SEPEDA</item>
+        <item>PESAWAT</item>
+        <item>BECAK</item>
+    </string-array>
+    <string-array name="pilihan_b2">
+        <item>MOBIL</item>
+        <item>BIS</item>
+        <item>BIS</item>
+        <item>MOBIL</item>
+        <item>BIS</item>
+        <item>SEPEDA LAUT</item>
+        <item>BAJAJ</item>
+        <item>MOBIL</item>
+        <item>MOBIL</item>
+    </string-array>
+    <string-array name="pilihan_c2">
+        <item>KERETA</item>
+        <item>MOTOR</item>
+        <item>HELIKOPTER</item>
+        <item>BEMO</item>
+        <item>SEPEDA</item>
+        <item>MOBIL LAUT</item>
+        <item>ANGKOT</item>
+        <item>ANGKOT</item>
+        <item>BIS</item>
+    </string-array>
+    <string-array name="pilihan_d2">
+        <item>SEPEDA</item>
+        <item>GETEK</item>
+        <item>BECAK</item>
+        <item>ANGKOT</item>
+        <item>MOTOR</item>
+        <item>KAPAL LAUT</item>
+        <item>PESAWAT</item>
+        <item>MOTOR</item>
+        <item>ANGKOT</item>
+    </string-array>
+    <!-- Jawaban yang benar untuk transportasi-->
+    <string-array name="jawabantransportasi">
+        <item>BAJAJ</item>
+        <item>BIS</item>
+        <item>BECAK</item>
+        <item>BEMO</item>
+        <item>KERETA</item>
+        <item>KAPAL LAUT</item>
+        <item>HELIKOPTER</item>
+        <item>KAPAL LAUT</item>
+        <item>BEMO</item>
+    </string-array>
+
     <!-- Pertanyaan Hewan -->
 
 
